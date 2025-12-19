@@ -1,4 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 @import 'tailwindcss' source(none);
 @source '../**/*.{js,ts,jsx,tsx}';
 
 @import 'tw-animate-css';
+
+/* 🔽 MATIKAN ANIMASI DI MOBILE */
+@media (max-width: 640px) {
+  * {
+    animation: none !important;
+    transition: none !important;
+  }
+}
