@@ -543,10 +543,10 @@ export default function App() {
               </div>
 
               <div className="space-y-2 sm:space-y-3">
-                <h2 className="text-amber-900 text-lg sm:text-xl">Selamat Natal dan Tahun Baru 2025</h2>
-                <p className="text-amber-800 italic text-sm sm:text-base">Tuhan memberkati kita semua</p>
+                <h2 className="text-amber-900 text-lg sm:text-xl font-extrabold">Selamat Natal dan Tahun Baru 2025</h2>
+                <p className="text-amber-800 italic text-sm sm:text-base font-bold">Tuhan memberkati kita semua</p>
                 <div className="pt-3 sm:pt-4 border-t-2 border-amber-300/50 mt-4">
-                  <p className="text-amber-700 text-xs sm:text-sm">PNB/Remaja HKI Sion Marindal</p>
+                  <p className="text-amber-700 text-xs sm:text-sm font-bold">PNB/Remaja HKI Sion Marindal</p>
                 </div>
               </div>
             </div>
