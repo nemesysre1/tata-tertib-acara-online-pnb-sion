@@ -53,7 +53,7 @@ export default function App() {
       title: 'PENYALAAN LILIN dan Bernyanyi KJ 92 — "MALAM KUDUS"',
       subtitle: '(Jemaat Berdiri)',
       details: [
-        '1. Pengkhotbah ( Pdt.L. Br. Lumbantobing )',
+        '1. Pengkhotbah ( Pdt.T. Br. Lumbantobing )',
         '2. Mewakili Penatua Gereja ( St.D.Simanjuntak )',
         '3. Pembina PNB/R HKI Sion ( Cst.R.P.Lumbantoruan )',
         '4. Ketua Panitia Natal (Samuel Silalahi)',
@@ -92,7 +92,7 @@ export default function App() {
       ],
     },
     {
-      title: 'Renungan Natal " Pdt. L. Br. Lumbantobing"',
+      title: 'Renungan Natal " Pdt. T. Br. Lumbantobing"',
     },
     {
       title: 'Bernyanyi KJ No. 33:7:1 — "Betapa kita tidak bersyukur"',
